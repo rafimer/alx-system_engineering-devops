@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -r "*,js" ./
+grep -r "*,js" -delete ./
